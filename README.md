@@ -1,6 +1,6 @@
-# UniInbox
+﻿# UniInbox
 
-[![CI](https://github.com/GuilhermeCostaProenca/uniinbox/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GuilhermeCostaProenca/uniinbox/actions/workflows/ci.yml)
+[![CI](https://github.com/GuilhermeCostaProenca/unified-communication-hub/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GuilhermeCostaProenca/unified-communication-hub/actions/workflows/ci.yml)
 
 Digital product repository focused on a real market pain with portfolio-grade execution.
 
@@ -38,3 +38,4 @@ Next.js, backend event-driven, PostgreSQL, Redis, conectores de canais
 
 ## Main risks
 Limites de APIs de mensageria e UX de priorizacao
+
